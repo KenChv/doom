@@ -1,5 +1,8 @@
 #+title: 简介
 
+[[./banners/dashboard1.png]]
+[[./banners/dashboard2.png]]
+
 * 配置理念
 - 尽量使用轻量级的 doom emacs, 去除不必要的 package
 - 使用 vim 和 emacs 混合快捷键和操作方法
