@@ -1,7 +1,22 @@
 #+title: 简介
 
-# 配置理念
+* 配置理念
 - 尽量使用轻量级的 doom emacs, 去除不必要的 package
 - 使用 vim 和 emacs 混合快捷键和操作方法
 - 使用最新的组合： vertico, marginalia, orderless, embask, consult
 - 重点对 ui， rime 中文输入法， 有道词典， org-mode, 中文日历，pdf 等配置进行定制
+* 使用配置说明
+
+首先 clone doom emacs 仓库，然后再 clone 本仓库：
+#+begin_src shell
+git clone --depth 1 https://github.com/doomemacs/doomemacs ~/.config/emacs
+git clone https://github.com/KenChv/doom.git ~/.config/doom
+~/.config/emacs/bin/doom install
+#+end_src
+
+* 目前主要支持的功能
+
+** UI 美化
+
+
+* 其他配置
